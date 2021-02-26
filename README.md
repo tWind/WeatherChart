@@ -1,4 +1,4 @@
-# chat
+# weather chart
 
 ## Project setup
 ```
